@@ -302,23 +302,6 @@ As imagens completas serão adicionadas quando o Hydra‑Portal e o HydraTheme f
 
 > *(Esta secção suporta grelha, mosaico ou layout responsivo — ajusta conforme necessário.)*
 
----
-
-## 🍰 **Supporters and Donors**
-
-<a href="https://github.com/hydraprojects-cyber">
-  <img alt="HydraProjects‑Cyber brand logo" align="right" src="./screenshots/logo/245192559.png" width="10%" />
-</a>
-
-Estamos atualmente à procura de novos apoiantes para ajudar a manter e expandir o ecossistema Hydra! ❤️  
-
-Ao contribuir, estarás a apoiar o desenvolvimento contínuo e **serás destacado neste README.md**, para que todos possam ver o teu apoio ⭐.
-
-<a href="https://github.com/sponsors/hydraprojects-cyber">
-  <img src="https://img.shields.io/badge/Sponsor-hydraprojects--cyber-red?logo=github-sponsors&style=for-the-badge">
-</a>
-
-
 ## 🍰 **Apoiantes e Doadores**
 
 <a href="https://github.com/hydraprojects-cyber">
