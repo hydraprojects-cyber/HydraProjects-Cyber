@@ -344,7 +344,6 @@ HydraProjects-Cyber was generated from *[Josee9988/project-template](https://git
 Obrigado pelo teu apoio! 😃
 
 ---
----
 
 ## ⚖️📝 Licença e Changelog
 
