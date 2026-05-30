@@ -1,19 +1,18 @@
 <!-- markdownlint-disable MD032 MD033-->
-<!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
 # 🔥 **hydraprojects-cyber/HydraProjects-Cyber**
 
 <div align="center">
-  <!-- Change your logo -->
-  <div align="center">
   <img width="100%" src="./screenshots/channels4_banner.jpg" alt="HydraProjects Banner">
 </div>
-  </a>
-  <br>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/hydraprojects-cyber/HydraProjects-Cyber/issues">
-    <img src="https://img.shields.io/github/issues/hydraprojects-cyber/HydraProjects-Cyber?color=0088ff&style=for-the-badge&logo=github" alt="hydraprojects-cyber/HydraProjects-Cyber's issues"/>
+    <img src="https://img.shields.io/github/issues/hydraprojects-cyber/HydraProjects-Cyber?color=0088ff&style=for-the-badge&logo=github"/>
   </a>
   <a href="https://github.com/hydraprojects-cyber/HydraProjects-Cyber/pulls">
-    <img src="https://img.shields.io/github/issues-pr/hydraprojects-cyber/HydraProjects-Cyber?color=0088ff&style=for-the-badge&logo=github"  alt="hydraprojects-cyber/HydraProjects-Cyber's pull requests"/>
+    <img src="https://img.shields.io/github/issues-pr/hydraprojects-cyber/HydraProjects-Cyber?color=0088ff&style=for-the-badge&logo=github"/>
   </a>
 </div>
 
@@ -29,7 +28,7 @@ Aqui vive a arquitetura, o ADN e a visão que unem todo o ecossistema.
 
 ## 🐉 Identidade Hydra
 
-A Hydra não é apenas um conjunto de repositórios — é um **ecossistema híbrido**, modular, cerimonial e técnico, onde cada módulo cumpre um papel específico dentro de uma arquitetura viva.
+A Hydra é um **ecossistema híbrido**, modular, cerimonial e técnico, onde cada módulo cumpre um papel específico dentro de uma arquitetura viva.
 
 A organização HydraProjects‑Cyber funciona como:
 
@@ -42,22 +41,19 @@ A organização HydraProjects‑Cyber funciona como:
 
 ## 🏛 Estrutura do Ecossistema
 
-A organização mantém e supervisiona os seguintes pilares:
-
-### **🔹 HydraOS**  
+### 🔹 **HydraOS**  
 Sistema híbrido, modular, cerimonial, com terminal, desktop e rituais.
 
-### **🔹 HydraDynamics**  
+### 🔹 **HydraDynamics**  
 O motor híbrido — core engine, lógica, módulos, sincronização e integração.
 
-### **🔹 HydraPortal**  
+### 🔹 **HydraPortal**  
 Interface web, documentação, dashboards, APIs e acesso ao ecossistema.
 
-### 🔹 **HydraSentinel‑ExternalUnit**
-Unidade externa dedicada à **segurança**, **validação**, **integridade**, **auditoria** e **monitorização contínua** do ecossistema Hydra.  
-Opera como um conjunto de **Eternal Agents**, sempre ativos, silenciosos e independentes, garantindo que cada módulo Hydra mantém coerência, estabilidade e autenticidade.
+### 🔹 **HydraSentinel‑ExternalUnit**  
+Unidade externa dedicada à segurança, validação, integridade e auditoria.
 
-### **🔹 HydraLocal / HydraAssets**  
+### 🔹 **HydraLocal / HydraAssets**  
 Assets, templates, ícones, sons, temas e identidade visual.
 
 ---
@@ -72,188 +68,36 @@ Assets, templates, ícones, sons, temas e identidade visual.
 | **HydraSentinel‑ExternalUnit** | Segurança, validação e auditoria. | **HydraSentinel‑ExternalUnit** |
 | **HydraProjects‑Cyber** | Coordenação, specs e identidade do ecossistema. | **carloshmarques**, **Copilot** |
 
-### 🧬 Bio Expandida da Organização
-A **HydraProjects‑Cyber** é a organização central do ecossistema Hydra —  
-o **núcleo técnico**, **cerimonial** e **estrutural** que define:
-
-- a identidade visual e conceptual da Hydra  
-- as especificações oficiais  
-- a integração entre todos os módulos  
-- a coerência entre OS, Portal, Dynamics, Sentinel e WebShell  
-- o ADN que une o ecossistema num único organismo modular  
-
-É aqui que vivem as decisões, o design, a visão e o mapa do futuro Hydra.
 ---
 
-🗺 Roadmap
-[ ] Criar organigrama oficial (docs/HYDRA_ORGANIGRAMA.md)
+## 🗺 Roadmap
 
-[ ] Criar manifesto (docs/bridge_manifest.md)
-
-[ ] Criar identidade visual Hydra (logos, banners, temas)
-
-[ ] Publicar specs do HydraOS
-
-[ ] Publicar API do HydraPortal
-
-[ ] Criar documentação modular para cada módulo
-
-[ ] Criar scripts de automação e integração contínua
-
-[ ] Gerir redes sociais oficiais da organização (YouTube, Facebook, GitHub Pages, etc.)
-
-[ ] Criar calendário editorial e plano de comunicação
-
-[ ] Criar templates de posts e branding social
+- [ ] Criar organigrama oficial (`docs/HYDRA_ORGANIGRAMA.md`)
+- [ ] Criar manifesto (`docs/bridge_manifest.md`)
+- [ ] Criar identidade visual Hydra
+- [ ] Publicar specs do HydraOS
+- [ ] Publicar API do HydraPortal
+- [ ] Criar documentação modular
+- [ ] Criar scripts de automação
+- [ ] Gerir redes sociais
+- [ ] Criar calendário editorial
+- [ ] Criar templates de branding social
 
 ---
 
-## 🤝 Contribuição
-
-Este repositório define padrões, specs e identidade.  
-Pull requests são bem‑vindos, desde que respeitem:
-
-- modularidade  
-- clareza  
-- consistência  
-- estilo Hydra  
-
----
-
-## 🚀 **Usage**
-
-Este repositório representa a **organização pública do ecossistema Hydra**.  
-Aqui encontras a estrutura central, documentação, specs, integração entre módulos e o mapa técnico que une todo o sistema Hydra.
-
-> A página pública do GitHub serve como ponto de entrada para o ecossistema, apresentando os módulos, links oficiais, redes sociais e documentação do Hydra‑Portal.
 ## 🌲 **Project tree**
 
-A estrutura do projeto pode ser gerada automaticamente com o script:
+A estrutura do projeto pode ser gerada automaticamente com o script.
 
-Este script produz a árvore completa do repositório, útil para documentação, navegação e organização interna.
 ---
 
+<!-- tree_start -->
+<details>
+  <summary><strong>📂 Ver árvore do projeto</strong></summary>
+
+  <br/>
+
 ```text
-├── .git
-│   ├── COMMIT_EDITMSG
-│   ├── FETCH_HEAD
-│   ├── HEAD
-│   ├── config
-│   ├── description
-│   ├── hooks
-│   │   ├── applypatch-msg.sample
-│   │   ├── commit-msg.sample
-│   │   ├── fsmonitor-watchman.sample
-│   │   ├── post-checkout
-│   │   ├── post-commit
-│   │   ├── post-merge
-│   │   ├── post-update.sample
-│   │   ├── pre-applypatch.sample
-│   │   ├── pre-commit.sample
-│   │   ├── pre-merge-commit.sample
-│   │   ├── pre-push
-│   │   ├── pre-push.sample
-│   │   ├── pre-rebase.sample
-│   │   ├── pre-receive.sample
-│   │   ├── prepare-commit-msg.sample
-│   │   ├── push-to-checkout.sample
-│   │   ├── sendemail-validate.sample
-│   │   └── update.sample
-│   ├── index
-│   ├── info
-│   │   └── exclude
-│   ├── lfs
-│   │   ├── cache
-│   │   │   └── locks
-│   │   │       └── refs
-│   │   │           └── heads
-│   │   │               └── master
-│   │   │                   └── verifiable
-│   │   └── tmp
-│   ├── logs
-│   │   ├── HEAD
-│   │   └── refs
-│   │       ├── heads
-│   │       │   └── master
-│   │       └── remotes
-│   │           └── origin
-│   │               ├── HEAD
-│   │               └── master
-│   ├── objects
-│   │   ├── 04
-│   │   │   └── 3fb2151dc8ec439969ee118b40c87519723d62
-│   │   ├── 08
-│   │   │   └── f2facb8106d1e9d316425c358f15624b48abf6
-│   │   ├── 0c
-│   │   │   └── 0d036dd95b3fe330b8eed15c7bb1eedb0ebcd3
-│   │   ├── 2c
-│   │   │   └── 7230c7edf1afdbc060cbf2a2b30728a91baebc
-│   │   ├── 37
-│   │   │   └── e838084cbbfbee30d49b4501a9198418c66d5f
-│   │   ├── 3a
-│   │   │   └── 4facfe2c5562039ab7ca8181f172bd49b01d3a
-│   │   ├── 46
-│   │   │   └── 14486e399a4679fd3aabcf2c1026ac411946cc
-│   │   ├── 48
-│   │   │   ├── 031f046e126ae9ba84917df5e5011f2b0dfa46
-│   │   │   └── 2d0dc130de4d899cad79c3446d2333c785a297
-│   │   ├── 54
-│   │   │   └── 22a929b0e9ba87e22f9e642a09cc078cff70cb
-│   │   ├── 55
-│   │   │   └── 615fc4511050e0c93a13b9d5a22f5d2ecaf2c2
-│   │   ├── 67
-│   │   │   └── 613d81d17e39fb94f0dcc4177fed356bb42707
-│   │   ├── 68
-│   │   │   ├── 66a169c545f85f825f233317038765f62e20db
-│   │   │   └── a77828b6e782cd1017137ee7c634866bd2dedc
-│   │   ├── 74
-│   │   │   └── dc1efd706e44077a1b0ce8f325fd6f327c6668
-│   │   ├── 82
-│   │   │   └── a7087b021dc1ab1bc03bd750a98c5102563c83
-│   │   ├── 83
-│   │   │   └── 1c2a65799a5cad57fe65c0613ada19145f57ba
-│   │   ├── 84
-│   │   │   └── 03c1bebb9909415f47db639b96fd879bc02da4
-│   │   ├── 88
-│   │   │   └── a08cbf0e9fd2ac689dcbb5d6fda258c83610b7
-│   │   ├── 8f
-│   │   │   └── c79c1c5f13fd0270c6158458a0d8225265afdd
-│   │   ├── 97
-│   │   │   └── 7a642b238faebb75bfec2cbbc70ec155587fb5
-│   │   ├── 9e
-│   │   │   └── c0a112848a84fa10c3728bb7c9c6b941566f14
-│   │   ├── a8
-│   │   │   └── 12595bb5db90a4b0df5b741cb6bcc9afbb80b1
-│   │   ├── c4
-│   │   │   └── 8cff6d5ff2a56f85d23cc417694cee6f9ca8e6
-│   │   ├── c9
-│   │   │   └── 42e4ec03ad178e7a17166de0a2060196cd3fb6
-│   │   ├── cc
-│   │   │   └── 64024c13bd9eff240a90f1abc3498989d906fd
-│   │   ├── d4
-│   │   │   └── 78f47c5a8ae86470559f138d6ff4da8af211d3
-│   │   ├── e1
-│   │   │   └── e2735e7d4224f5090e01b3dd7f75e6ad36162e
-│   │   ├── e6
-│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
-│   │   ├── ed
-│   │   │   └── b2c37fee27626bdcae474776f52e9df0d9ec0b
-│   │   ├── ff
-│   │   │   └── 4e4d79d84e0d8e2ab5a6298c4b8df41df2f267
-│   │   ├── info
-│   │   └── pack
-│   │       ├── pack-f3a4761c16655e9b8eb0a2a7430c4f9b12633c30.idx
-│   │       ├── pack-f3a4761c16655e9b8eb0a2a7430c4f9b12633c30.pack
-│   │       └── pack-f3a4761c16655e9b8eb0a2a7430c4f9b12633c30.rev
-│   ├── packed-refs
-│   └── refs
-│       ├── heads
-│       │   └── master
-│       ├── remotes
-│       │   └── origin
-│       │       ├── HEAD
-│       │       └── master
-│       └── tags
 ├── .github
 │   ├── CODEOWNERS
 │   ├── CODE_OF_CONDUCT.md
@@ -288,6 +132,10 @@ Este script produz a árvore completa do repositório, útil para documentação
 └── scripts
     └── project_tree.py
 ```
+
+</details>
+<!-- tree_end -->
+
 ---
 
 ## 📝 **Additional notes**
